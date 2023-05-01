@@ -16,6 +16,12 @@
   align-content: center;
 }
 
+.winnerSlide {
+  display: none;
+  justify-content: center;
+  align-content: center;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
